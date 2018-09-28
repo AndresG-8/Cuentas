@@ -31,5 +31,5 @@ hs_err_pid*
 db/
 
 # files no necesary at repo
-buil.xml
-manifest.ml
+/buil.xml
+/manifest.ml
