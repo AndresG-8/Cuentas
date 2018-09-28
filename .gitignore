@@ -1,7 +1,7 @@
 # build, dist and nbproject folders
 build/
 dist/
-/nbproject
+nbproject/
  
 # Compiled class file
 *.class
@@ -29,3 +29,7 @@ hs_err_pid*
 
 # db folder
 db/
+
+# files no necesary at repo
+buil.xml
+manifest.ml
